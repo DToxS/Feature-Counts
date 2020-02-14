@@ -6,7 +6,7 @@ This analysis uses the *featureCounts* program from the *Subread* software to as
 
 The inputs of this analysis include:
 
-- A set of sequence alignment data files (**.bam*) in the `Aligns` directory.
+- A set of sequence alignment data files (`*.bam`) in the `Aligns` directory.
 - The annotation file of UCSC human genome reference library `RefSeq.hg38.gtf` in the `References` directory.
 
 ## Procedure
