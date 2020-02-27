@@ -26,4 +26,4 @@ The outputs of this analysis include:
 
 - A single table `Conv-RNAseq-Read-Counts.tsv` in the `Counts` directory under or multiple tables `DGE-RNAseq-Read-Counts-[Set]-[Subset].tsv` in the `Counts` sub-directory of each `[Set]` of dataset directory, under the corresponding `[Type]-GEO-Depot` top directory, which contain the uniquely aligned sequence reads for all reference genes and all sequenced samples.
 
-  **Note:** the `[Set]` and `[Subset]` tags refer to [Analyzing 3'-DGE Random-Primed mRNA-Sequencing Data](https://github.com/DToxS/Conv-GEO-Depot) and they only apply to `DGE` type of sequence data where multiple `[Set]` of datasets are available.
+  **Note:** the `[Set]` and `[Subset]` tags refer to [Analyzing 3'-DGE Random-Primed mRNA-Sequencing Data](https://github.com/DToxS/DGE-GEO-Depot) and they only apply to `DGE` type of sequence data where multiple `[Set]` of datasets are available.
